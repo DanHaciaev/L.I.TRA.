@@ -1,6 +1,6 @@
 import React from 'react'
 import style from './Contacts.module.css'
-import Map from './Map'
+
 
 export default function Contacts() {
   return (
@@ -30,7 +30,7 @@ export default function Contacts() {
           <p><a href="mailto:info@litrainternational.com">info@litrainternational.com</a></p>
         </div>
       </div>
-      <Map/>
+      
     </div>
   )
 }
