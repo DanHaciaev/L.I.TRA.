@@ -15,7 +15,7 @@ export default function Footer() {
           <li>Sardinia: 079 0976300</li>
           <li ><a className={style.link} href="mailto:info@litrainternational.com">info@litrainternational.com</a></li>
         </ul>
-        
+
       </div>
       
     </div>
