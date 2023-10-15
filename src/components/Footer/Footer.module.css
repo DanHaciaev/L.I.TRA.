@@ -1,0 +1,15 @@
+.all {
+    color: #F0EBD8;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 150px 20px 150px;
+}
+
+.name {
+    width: 300px;
+    height: 250px;
+}
+
+.link{
+    color: #F0EBD8;
+}

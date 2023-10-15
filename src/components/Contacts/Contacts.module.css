@@ -1,0 +1,23 @@
+.all{
+    background-color: #F0EBD8;
+    color: #0D1321;
+    text-align: left;
+    padding: 30px;
+}
+
+.upcase{
+    font-size: 24px;
+}
+
+.text{
+    display: flex;
+    justify-content: space-between;
+    line-height: 10px;
+    padding: 20px 30px 30px 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #0D1321;
+}
+
